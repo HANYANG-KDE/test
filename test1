@@ -5,6 +5,7 @@ public class test {
         + "%d %n %g %n %g %n %s %n", !false, '3', new String(three), "Three",
         3, Long.MAX_VALUE, Math.PI, Double.MAX_VALUE, new Object());
         
+        안녕하세요
         hi
   }
 }
